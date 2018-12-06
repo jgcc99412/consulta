@@ -1,0 +1,53 @@
+    *{
+    margin: 0;
+    padding: 0;
+    font-family: helvetica;
+    
+}
+body{
+    
+    
+    background-image: url('../img/fondo.jpg');
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: cursive;
+    
+    
+}
+.transp{
+     
+     background-repeat: repeat;
+     background-position: center;
+     background-image: url('../img/trans.png');
+     width: 100%;
+     height: 100%;
+
+    
+    
+}
+
+footer{
+    background-color: #227DB4;
+    color: white;
+    height: 50px;
+}
+h1, label{
+    color: white;
+}
+h3{
+    color: white;
+    
+}
+a.registro{
+    padding-left: 500px;
+}
+ /**.transp{
+            background-image: url('../img/img/trans3.png');
+            background-position: center;
+            position: absolute;
+            background-repeat: repeat;
+            width: 1535px;
+            height: 740px;
+        }
+**/
